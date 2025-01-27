@@ -1,0 +1,472 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "16359276425da8ce46": {
+      "type": "slideshow",
+      "blocks": {
+        "16359276425da8ce46-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/luke-t-shirt-red-truck-desktop.jpg",
+            "slide_link": "",
+            "subheading": "Tell your story",
+            "title": "Slide heading",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 46,
+            "use_h1": false,
+            "text": "<p>And optional subtext</p>",
+            "enlarge_text": true,
+            "button_label_1": "Shop this",
+            "button_url_1": "",
+            "button_label_2": "Shop all",
+            "button_url_2": "",
+            "text_alignment": "center center"
+          }
+        }
+      },
+      "block_order": [
+        "16359276425da8ce46-0"
+      ],
+      "settings": {
+        "height": "fixed",
+        "height_desktop": 600,
+        "height_mobile": 460,
+        "full_width": true,
+        "mobile_overlay_under": false,
+        "overlay_style": "full image-overlay--bg-shadow",
+        "transition": "fade",
+        "navigation": "arrows",
+        "autoplay": true,
+        "autoplay_speed": 7,
+        "accessibility_info": ""
+      }
+    },
+    "1635927863703110df": {
+      "type": "rich-text",
+      "blocks": {
+        "1635927863703110df-1": {
+          "type": "heading",
+          "settings": {
+            "title": "Rich text",
+            "use_h1": false
+          }
+        },
+        "1635927863703110df-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use this text to share information about your store with your customers. Describe products, share announcements, or welcome customers to your store.</p>",
+            "enlarge_text": true
+          }
+        }
+      },
+      "block_order": [
+        "1635927863703110df-1",
+        "1635927863703110df-2"
+      ],
+      "settings": {
+        "height": "medium",
+        "text_alignment": "center",
+        "full_width": false,
+        "color_scheme": "default"
+      }
+    },
+    "16359278676808bea5": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "collection": "",
+        "show_vendor": false,
+        "enable_carousel": true,
+        "grid": 4,
+        "rows": 1,
+        "color_scheme": "default",
+        "show_view_all": true,
+        "full_width": true
+      }
+    },
+    "16359278867b92de38": {
+      "type": "image-with-text",
+      "blocks": {
+        "64bcaa60-a78b-4408-9413-93788f2dd8b6": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Subheading"
+          }
+        },
+        "8963d659-f502-4f87-9a3f-d5c8c7f4bda5": {
+          "type": "heading",
+          "settings": {
+            "title": "Image with text",
+            "use_h1": false
+          }
+        },
+        "ae36be52-0e56-4829-ac5d-f47fd671d46b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to give customers insight into your brand. Tell a story, explain a product detail, or describe a new promotion.</p>",
+            "enlarge_text": false
+          }
+        },
+        "2e5b8e45-d07b-473e-9562-15a4d3d196d5": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "64bcaa60-a78b-4408-9413-93788f2dd8b6",
+        "8963d659-f502-4f87-9a3f-d5c8c7f4bda5",
+        "ae36be52-0e56-4829-ac5d-f47fd671d46b",
+        "2e5b8e45-d07b-473e-9562-15a4d3d196d5"
+      ],
+      "settings": {
+        "image_width": 700,
+        "image_link": "",
+        "image_position": "left",
+        "text_alignment": "left",
+        "color_scheme": "default"
+      }
+    },
+    "16359279164ff7d3f3": {
+      "type": "gallery",
+      "blocks": {
+        "16359279164ff7d3f3-0": {
+          "type": "media",
+          "settings": {
+            "enlarge_media": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16359279164ff7d3f3-1": {
+          "type": "media",
+          "settings": {
+            "enlarge_media": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "16359279164ff7d3f3-2": {
+          "type": "media",
+          "settings": {
+            "enlarge_media": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        },
+        "474c4491-283d-4680-a37b-7b5a444e7e62": {
+          "type": "media",
+          "settings": {
+            "enlarge_media": false,
+            "subheading": "Gallery",
+            "title": "Tell your story",
+            "button_label": "",
+            "link": "",
+            "text_alignment": "bottom left"
+          }
+        }
+      },
+      "block_order": [
+        "16359279164ff7d3f3-0",
+        "16359279164ff7d3f3-1",
+        "16359279164ff7d3f3-2",
+        "474c4491-283d-4680-a37b-7b5a444e7e62"
+      ],
+      "settings": {
+        "grid_desktop": 2,
+        "grid_mobile": "1",
+        "height": "fixed",
+        "desktop_image_height": 460,
+        "mobile_image_height": 400,
+        "title_size": 30,
+        "title_size_mobile": 22,
+        "enable_margin": true,
+        "enable_row_spacing": true,
+        "full_width": false,
+        "color_scheme": "default",
+        "enable_carousel": true,
+        "overlay_style": "full",
+        "button_style": "primary"
+      }
+    },
+    "16359281184fd0d618": {
+      "type": "testimonials",
+      "blocks": {
+        "16359281184fd0d618-0": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+            "author": "Author's name",
+            "image_caption": "",
+            "link": ""
+          }
+        },
+        "16359281184fd0d618-1": {
+          "type": "testimonial",
+          "settings": {
+            "star_rating": 5,
+            "testimonial": "Add customer reviews and testimonials to showcase your store’s happy customers.",
+            "author": "Author's name",
+            "image_caption": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16359281184fd0d618-0",
+        "16359281184fd0d618-1"
+      ],
+      "settings": {
+        "title": "From the people",
+        "layout": "image-right",
+        "text_caps": false,
+        "quote_text_size": 30,
+        "quote_text_size_mobile": 20,
+        "image_shape": "square",
+        "color_scheme": "default",
+        "autoplay": true,
+        "autoplay_speed": 5
+      }
+    },
+    "16359285201c71bbb1": {
+      "type": "background-video",
+      "blocks": {
+        "6491654b-0158-4d48-bd51-47f80ae61173": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Tell your story"
+          }
+        },
+        "0e02b1e1-0a34-401b-8a9f-d87b29a96271": {
+          "type": "heading",
+          "settings": {
+            "title": "Background video",
+            "heading_max_width": 15,
+            "title_size": 84,
+            "title_size_mobile": 32,
+            "use_h1": false
+          }
+        },
+        "7e652131-c89a-42cd-b26d-2a7d6d2950b7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Use a video to get a customer's attention</p>",
+            "enlarge_text": true
+          }
+        },
+        "c9a40eba-4d41-4ab8-afa3-bebce9e038a9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button text",
+            "button_link": "",
+            "button_style": "primary"
+          }
+        }
+      },
+      "block_order": [
+        "6491654b-0158-4d48-bd51-47f80ae61173",
+        "0e02b1e1-0a34-401b-8a9f-d87b29a96271",
+        "7e652131-c89a-42cd-b26d-2a7d6d2950b7",
+        "c9a40eba-4d41-4ab8-afa3-bebce9e038a9"
+      ],
+      "settings": {
+        "video_external": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_description": "",
+        "text_alignment": "center center",
+        "height_desktop": 580,
+        "height_mobile": 480,
+        "full_width": true,
+        "overlay_style": "full image-overlay--bg-shadow"
+      }
+    },
+    "163592857728b8bdc2": {
+      "type": "multi-column",
+      "blocks": {
+        "163592857728b8bdc2-0": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "button_label": "Optional button",
+            "link": ""
+          }
+        },
+        "163592857728b8bdc2-1": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "button_label": "Optional button",
+            "link": ""
+          }
+        },
+        "163592857728b8bdc2-2": {
+          "type": "text_block",
+          "settings": {
+            "enable_media": true,
+            "title": "Add a title or tagline",
+            "text": "<p>Share blog posts, products, or promotions with your customers. Use this text to describe products, share details on availability and style, or as a space to display recent reviews or FAQs.</p>",
+            "button_label": "Optional button",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "163592857728b8bdc2-0",
+        "163592857728b8bdc2-1",
+        "163592857728b8bdc2-2"
+      ],
+      "settings": {
+        "title": "Multi-column",
+        "media_aspect_ratio": "s",
+        "media_width": 700,
+        "text_alignment": "center",
+        "button_style": "primary",
+        "color_scheme": "default"
+      }
+    },
+    "1635928580d75f81bf": {
+      "type": "featured-product",
+      "blocks": {
+        "1635928580d75f81bf-0": {
+          "type": "title",
+          "settings": {}
+        },
+        "1635928580d75f81bf-1": {
+          "type": "price",
+          "settings": {
+            "show_tax_and_shipping": false,
+            "enable_product_reviews_by_price": true
+          }
+        },
+        "1635928580d75f81bf-2": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "1635928580d75f81bf-3": {
+          "type": "divider",
+          "settings": {}
+        },
+        "1635928580d75f81bf-4": {
+          "type": "variant-picker",
+          "settings": {
+            "show_single": false,
+            "selector_style": "listed",
+            "dynamic_availability": "show",
+            "enable_size_chart": false,
+            "size_chart_label": "Size guide",
+            "size_chart_variant": "Size",
+            "size_chart_page": ""
+          }
+        },
+        "1635928580d75f81bf-5": {
+          "type": "buy-buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "enable_payment_button": true,
+            "show_backorder_text": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "1635928580d75f81bf-6": {
+          "type": "description",
+          "settings": {
+            "show_in_tab": false,
+            "open_tab": false,
+            "icon": ""
+          }
+        }
+      },
+      "block_order": [
+        "1635928580d75f81bf-0",
+        "1635928580d75f81bf-1",
+        "1635928580d75f81bf-2",
+        "1635928580d75f81bf-3",
+        "1635928580d75f81bf-4",
+        "1635928580d75f81bf-5",
+        "1635928580d75f81bf-6"
+      ],
+      "settings": {
+        "product": "",
+        "select_first_variant": true,
+        "inventory_transfers_enable": true,
+        "enable_sticky_columns": false,
+        "gallery_size": "medium",
+        "gallery_layout": "carousel-under",
+        "enable_zoom": true,
+        "show_alt_text": false,
+        "alt_text_icon": "",
+        "enable_video_autoplay": false,
+        "enable_video_looping": false,
+        "enable_media_grouping": false,
+        "media_grouping_option": "Color,Colour,Couleur,Farbe"
+      }
+    },
+    "1635928697c562053a": {
+      "type": "map",
+      "settings": {
+        "full_width": true,
+        "color_scheme": "1",
+        "heading": "Our store",
+        "address": "<p>123 Fake St.<br/>Toronto, Canada</p><p>Mon - Fri, 10am - 9pm<br/>Saturday, 11am - 9pm<br/>Sunday, 11am - 5pm</p>",
+        "button": "Directions",
+        "show_pin": true,
+        "show_feature_image": true,
+        "map_address": "80 Spadina Ave, Toronto",
+        "api_key": "",
+        "map_type": "embed",
+        "map_style": "silver"
+      }
+    },
+    "163592870141219e2f": {
+      "type": "featured-blog",
+      "settings": {
+        "title": "Blog posts",
+        "blog": "",
+        "post_limit": 3,
+        "show_author": true,
+        "show_date": true,
+        "show_excerpts": true,
+        "crop_ratio": "1.78",
+        "color_scheme": "default"
+      }
+    }
+  },
+  "order": [
+    "16359276425da8ce46",
+    "1635927863703110df",
+    "16359278676808bea5",
+    "16359278867b92de38",
+    "16359279164ff7d3f3",
+    "16359281184fd0d618",
+    "16359285201c71bbb1",
+    "163592857728b8bdc2",
+    "1635928580d75f81bf",
+    "1635928697c562053a",
+    "163592870141219e2f"
+  ]
+}
