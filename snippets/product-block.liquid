@@ -183,21 +183,25 @@ Parameters:
               {%- endif -%}
             </a>
 
-            {%- if settings.swatch_source != 'none' and settings.prod_thumb_show_options and hide_swatches == blank -%}
-              {%- liquid
-                if card_layout == 'landscape'
-                  assign option_limit = 5
-                else
-                  assign option_limit = 3
-                endif
-                if manual_loading
-                  assign swatch_loading = 'manual'
-                else
-                  assign swatch_loading = 'lazy'
-                endif
-              -%}
-              {%- for product_option in product.options_with_values -%}
-                {%- liquid
+{%- if settings.swatch_source != 'none' and settings.prod_thumb_show_options and hide_swatches == blank -%}
+  {%- liquid
+    if card_layout == 'landscape'
+      assign option_limit = 5
+    else
+      assign option_limit = 3
+    endif
+    if manual_loading
+      assign swatch_loading = 'manual'
+    else
+      assign swatch_loading = 'lazy'
+    endif
+  -%}
+  {%- for product_option in product.options_with_values -%}
+    {%- liquid
+      if template.name == 'collection' and forloop.first == false
+        continue
+      endif
+                
                   assign show_swatches = false
                   assign is_text_swatch = false
                   if settings.swatch_source == 'theme' and settings.swatch_option_name contains product_option.name
